@@ -1,0 +1,7 @@
+1)      Faça uma função que recebe um valor inteiro e positivo:
+
+a)       Se o valor for menor que 350, a função deverá incrementar o valor recebido com o valor 5.
+
+b)      Se o novo valor for múltiplo de 5, deverá exibir a mensagem: "MÚLTIPLO DE 5".
+
+c)       Se o novo valor for múltiplo de 7, deverá exibir a mensagem: "MÚLTIPLO DE 7".

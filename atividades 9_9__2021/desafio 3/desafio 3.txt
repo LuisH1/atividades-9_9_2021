@@ -1,0 +1,25 @@
+1)      Faça uma função que exibe a sequência abaixo usando as especificações:
+
+
+
+
+
+
+a)       Exibir os 100 primeiros números da sequência da acima.
+
+b)      O primeiro valor é 0.
+
+c)       O segundo valor é 1.
+
+d)      O terceiro valor em diante é o resultado da soma de valores, por exemplo:
+
+Se somar o primeiro valor e o segundo, o resultado é 1.
+
+Se somar o segundo valor e o resultado da soma anterior,  o novo resultado será 2, e assim por diante.
+
+>function sequencia(){
+ var primeiro = 1
+ for (let segundo = 0; segundo <=100; segundo++){
+   console.log (primeiro + " +  " + segundo  + " = " + (primeiro + segundo))}
+  {return 'saiu do loop'}
+}
